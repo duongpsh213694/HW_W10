@@ -25,10 +25,8 @@
 #######################################################################################
 
 # Personal information
-FIRSTNAME: Eric
-LASTNAME:  Eaton
-PENNKEY:   eeaton
-PENNID:    123456
+FIRSTNAME: DUONG
+LASTNAME:  PHAM
 
 # Which course are you enrolled in?  (enter 419 or 519)
 COURSE:  419 
@@ -56,16 +54,16 @@ SOURCESCONSULTED: |
 #######################################################################################
 
 # Problem 1a: information gain for the outlook attribute  (only your final answer)
-DT_INFO_GAIN_OUTLOOK: 123.45
+DT_INFO_GAIN_OUTLOOK: 0.246
 
 # Problem 1a: information gain for the humidity attribute  (only your final answer)
-DT_INFO_GAIN_HUMIDITY: 123.45
+DT_INFO_GAIN_HUMIDITY: 0.015
 
 # Problem 1b: gain ratio for the outlook attribute  (only your final answer)
-DT_GAIN_RATIO_OUTLOOK: 123.45
+DT_GAIN_RATIO_OUTLOOK: 0.156
 
 # Problem 1b: gain ratio for the humidity attribute  (only your final answer)
-DT_GAIN_RATIO_HUMIDITY: 123.45
+DT_GAIN_RATIO_HUMIDITY: 0.0174
 
  
  
@@ -77,22 +75,22 @@ DT_GAIN_RATIO_HUMIDITY: 123.45
 #######################################################################################
 
 # What was the mean of the unpruned decision tree's accuracies?  (only your final answer)
-SHOWDOWN_DT_TEST_ACCURACY_MEAN: 123.45
+SHOWDOWN_DT_TEST_ACCURACY_MEAN: N/A
 
 # What was the standard deviation of the unpruned decision tree's accuracies?  (only your final answer)
-SHOWDOWN_DT_TEST_ACCURACY_STDDEV: 123.45
+SHOWDOWN_DT_TEST_ACCURACY_STDDEV: N/A
 
 # What was the mean of the decision stump's accuracies?  (only your final answer)
-SHOWDOWN_DSTUMP_TEST_ACCURACY_MEAN: 123.45
+SHOWDOWN_DSTUMP_TEST_ACCURACY_MEAN: N/A
 
 # What was the standard deviation of the decision stump's accuracies?  (only your final answer)
-SHOWDOWN_DSTUMP_TEST_ACCURACY_STDDEV: 123.45
+SHOWDOWN_DSTUMP_TEST_ACCURACY_STDDEV: N/A
 
 # What was the mean of the 3-level decision tree's accuracies?  (only your final answer)
-SHOWDOWN_DT3_TEST_ACCURACY_MEAN: 123.45
+SHOWDOWN_DT3_TEST_ACCURACY_MEAN: N/A
 
 # What was the standard deviation of the 3-level decision tree's accuracies?  (only your final answer)
-SHOWDOWN_DT3_TEST_ACCURACY_STDDEV: 123.45
+SHOWDOWN_DT3_TEST_ACCURACY_STDDEV: N/A
 
 
 
